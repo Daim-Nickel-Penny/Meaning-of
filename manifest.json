@@ -23,7 +23,7 @@
     {
       "matches": ["https://*/*", "http://*/*"],
       "js": ["select.js"],
-      "css": ["diction.css"]
+      "css": ["meaningOf.css"]
     }
   ],
   "icons": {
@@ -32,5 +32,5 @@
     "48": "images/icon48.png",
     "128": "images/icon128.png"
   },
-  "manifest_version": 1
+  "manifest_version": 2
 }

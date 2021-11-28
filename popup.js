@@ -1,6 +1,6 @@
 "use strict";
 
-let control = document.getElementById("dictionEnabled");
+let control = document.getElementById("meaningOfEnabled");
 chrome.storage.sync.get("isEnabled", function (data) {
   control.checked = data.isEnabled;
 });
