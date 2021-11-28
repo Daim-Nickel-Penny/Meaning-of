@@ -1,7 +1,7 @@
 {
-  "name": "Diction",
+  "name": "Meaning-Of",
   "version": "1.0",
-  "description": "Instant online dictionary with examples.",
+  "description": "Get Meaning of Selected Word.",
   "author": "Daim Khan",
   "permissions": ["storage"],
   "background": {
@@ -10,7 +10,7 @@
   },
   "options_page": "popup.html",
   "browser_action": {
-    "default_title": "Diction",
+    "default_title": "Meaning-Of",
     "default_popup": "popup.html",
     "default_icon": {
       "16": "images/icon16.png",
